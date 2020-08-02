@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BankApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BankApp/static/js/main.353352a0.chunk.js",
+    "main.js.map": "/BankApp/static/js/main.353352a0.chunk.js.map",
+    "runtime-main.js": "/BankApp/static/js/runtime-main.f896ed7d.js",
+    "runtime-main.js.map": "/BankApp/static/js/runtime-main.f896ed7d.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/BankApp/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.398bab49.chunk.js": "/BankApp/static/js/2.398bab49.chunk.js",
+    "static/js/2.398bab49.chunk.js.map": "/BankApp/static/js/2.398bab49.chunk.js.map",
+    "index.html": "/BankApp/index.html",
+    "precache-manifest.239f2a64306ae3bf15070062c9bbbb70.js": "/BankApp/precache-manifest.239f2a64306ae3bf15070062c9bbbb70.js",
+    "service-worker.js": "/BankApp/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/BankApp/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/BankApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.398bab49.chunk.js.LICENSE.txt": "/BankApp/static/js/2.398bab49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f896ed7d.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.398bab49.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.353352a0.chunk.js"
+  ]
+}
